@@ -2,7 +2,7 @@ repo_name: mohitdudhat22/Nextjs-fullstack-auth
 report_id: 10c90b661b735a9d790ff23689335f71
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:13:41+00:00'
+timestamp: '2024-02-29T19:21:10+00:00'
 requested_by: mohitdudhat22
 provider: github
 branch: main
@@ -53,7 +53,7 @@ tools:
   last_updated_by: mohitdudhat22
   last_updated_on: 2023-11-19 07:25:30.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 14.0.2
   open_source: true
